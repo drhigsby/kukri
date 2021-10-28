@@ -1,6 +1,7 @@
 # kukri
  Kukri is a PM-based WKL unibody split van-like with a dedicated arrow cluster.
 
+![Kukri](https://cdn.discordapp.com/attachments/879824108907536424/902659587210100746/unknown.png)
 ![Kukri](https://cdn.discordapp.com/attachments/902661845188497459/902672885037035540/unknown.png)
 
 Required Hardware:
