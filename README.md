@@ -13,4 +13,5 @@ Required Hardware:
 
 -keycaps
 
--up to 2x roller encoders part# ![EVQWGD001](https://www.aliexpress.com/item/4001293888953.html?spm=a2g0s.9042311.0.0.4e014c4dfA4Ye7)
+-up to 2x roller encoders part#EVQWGD001
+https://www.aliexpress.com/item/4001293888953.html?spm=a2g0s.9042311.0.0.4e014c4dfA4Ye7
