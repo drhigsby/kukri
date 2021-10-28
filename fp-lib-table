@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "KICAD Extra Libs")(type KiCad)(uri "D:/KICAD Extra Libs")(options "")(descr ""))
+  (lib (name HMRS)(type KiCad)(uri D:/KICAD_Projects/HMRS)(options "")(descr ""))
+)
